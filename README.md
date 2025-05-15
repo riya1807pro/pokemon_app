@@ -9,8 +9,8 @@ and a delightful experience on both desktop and mobile! 🎉
 
 ## 🔗 Live Preview
 
-🌐 **Try it now:** [pokemon-explorer-demo.vercel.app](https://pokemon-explorer-demo.vercel.app)  
-*(Replace with your actual deployed link!)*
+🌐 **Try it now:** [pokemon-explorer-demo.vercel.app](https://pokemon-app-kappa-eight.vercel.app/)  
+
 
 ---
 
